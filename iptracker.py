@@ -4,7 +4,7 @@ import time
 
 def get_ip(api_key, ip_address):
 	"""
-	api_key = "5ad18df5a159e7b571fe46acae42e404f766893f8817d9432551db9f"
+	
 	"""
 	ipdata_api = ipdata.IPData(api_key)
 	try:
